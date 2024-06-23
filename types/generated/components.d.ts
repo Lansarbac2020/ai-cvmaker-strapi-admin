@@ -26,7 +26,7 @@ export interface ExperienceExperience extends Struct.ComponentSchema {
     state: Schema.Attribute.String;
     startDate: Schema.Attribute.String;
     endDate: Schema.Attribute.String;
-    workSummery: Schema.Attribute.String;
+    workSummery: Schema.Attribute.Text;
   };
 }
 
@@ -42,7 +42,7 @@ export interface EducationEducation extends Struct.ComponentSchema {
     major: Schema.Attribute.String;
     startDate: Schema.Attribute.String;
     endDate: Schema.Attribute.String;
-    description: Schema.Attribute.String;
+    description: Schema.Attribute.Text;
   };
 }
 

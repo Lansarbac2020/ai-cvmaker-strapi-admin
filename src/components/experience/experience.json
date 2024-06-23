@@ -25,7 +25,7 @@
       "type": "string"
     },
     "workSummery": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
