@@ -1,4 +1,4 @@
-![Screenshot from 2024-06-21 01-21-09](https://github.com/Lansarbac2020/ai-resume-admin/assets/127045164/617e717b-a7e5-46ff-88e5-708d3d406dcc)
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
